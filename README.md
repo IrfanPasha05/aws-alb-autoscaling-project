@@ -163,7 +163,7 @@ http://<ALB-DNS-NAME>
 Cloud Engineer | AWS Enthusiast  
 
 🔗 GitHub:[https://github.com/yourusername](https://github.com/IrfanPasha05/aws-alb-autoscaling-project/edit/main/README.md)  
-🔗 DEV: https://dev.to/yourusername  
+🔗 DEV: [https://dev.to/yourusername  ](https://dev.to/irfanpasha/deploying-a-highly-available-web-application-on-aws-using-alb-auto-scaling-beginner-friendly-mp9)
 
 ---
 
